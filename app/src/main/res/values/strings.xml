@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch Take Home Saby Cortez</string>
+    <string name="name">Name</string>
+    <string name="item_id">ID: %1$d</string>
+    <string name="list_id">List ID: %1$d</string>
+    <string name="id">ID:</string>
+
+</resources>
